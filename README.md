@@ -26,6 +26,3 @@ The PDF file in this repository contains the test cases and recorded results for
 
 ## Disclaimer
 This is an independent manual testing practice project and does not imply affiliation with FirstCry.
-
-## Disclaimer
-Independent practice project. This documentation does not imply affiliation with FirstCry.
